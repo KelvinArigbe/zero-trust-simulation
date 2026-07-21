@@ -1,0 +1,31 @@
+{
+  "n_trials_per_architecture": 1000,
+  "perimeter": {
+    "label": "Perimeter (baseline)",
+    "n_trials": 1000,
+    "mean_detection_time_steps": 13.14,
+    "median_detection_time_steps": 11.0,
+    "stdev_detection_time_steps": 9.09,
+    "mean_response_time_steps": 7.74,
+    "median_response_time_steps": 7.0,
+    "containment_rate_pct": 19.3,
+    "breach_reach_rate_pct": 80.7
+  },
+  "zero_trust": {
+    "label": "Zero Trust (proposed)",
+    "n_trials": 1000,
+    "mean_detection_time_steps": 1.44,
+    "median_detection_time_steps": 1.0,
+    "stdev_detection_time_steps": 1.58,
+    "mean_response_time_steps": 1.81,
+    "median_response_time_steps": 1.0,
+    "containment_rate_pct": 97.4,
+    "breach_reach_rate_pct": 2.6
+  },
+  "improvement": {
+    "detection_time_reduction_pct": 89.0,
+    "response_time_reduction_pct": 76.6,
+    "containment_rate_improvement_pct_points": 78.1,
+    "breach_reach_reduction_pct_points": 78.1
+  }
+}

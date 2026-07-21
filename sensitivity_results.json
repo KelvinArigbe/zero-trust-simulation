@@ -1,0 +1,47 @@
+[
+  {
+    "threshold": 0.35,
+    "containment_rate_pct": 100.0,
+    "false_positive_rate_pct": 10.0
+  },
+  {
+    "threshold": 0.4,
+    "containment_rate_pct": 100.0,
+    "false_positive_rate_pct": 4.6
+  },
+  {
+    "threshold": 0.45,
+    "containment_rate_pct": 100.0,
+    "false_positive_rate_pct": 1.9
+  },
+  {
+    "threshold": 0.5,
+    "containment_rate_pct": 99.9,
+    "false_positive_rate_pct": 0.6
+  },
+  {
+    "threshold": 0.55,
+    "containment_rate_pct": 97.5,
+    "false_positive_rate_pct": 0.2
+  },
+  {
+    "threshold": 0.6,
+    "containment_rate_pct": 90.3,
+    "false_positive_rate_pct": 0.0
+  },
+  {
+    "threshold": 0.65,
+    "containment_rate_pct": 73.8,
+    "false_positive_rate_pct": 0.0
+  },
+  {
+    "threshold": 0.7,
+    "containment_rate_pct": 52.5,
+    "false_positive_rate_pct": 0.0
+  },
+  {
+    "threshold": 0.75,
+    "containment_rate_pct": 26.4,
+    "false_positive_rate_pct": 0.0
+  }
+]
